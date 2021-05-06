@@ -1,8 +1,10 @@
 .container {
-  max-width: 52.5rem;
   width: 100%;
+  height: calc(100vh);
+  overflow-y: scroll;
 
   margin: 0 auto;
+  padding: 0 6rem;
 }
 
 header {
