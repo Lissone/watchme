@@ -1,5 +1,7 @@
 import { useGenre } from "../contexts/GenreContext"
 
+import '../styles/header.scss';
+
 export function Header() {
   const { selectedGenre } = useGenre()
 
