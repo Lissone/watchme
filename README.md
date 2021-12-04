@@ -30,7 +30,7 @@
 
 ## Description
 
-Simple site for viewing movies and series with nomination and duration note.
+Simple site for viewing movies and series with indication and duration note, separated by categories.
 
 Application created as a challenge to test knowledge about context and componentization in react.
 
